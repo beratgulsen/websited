@@ -11,7 +11,7 @@ export default function Footer() {
                     <div className="lg:grid lg:grid-cols-6 gap-20">
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
-                                <img src="/img/logo2.png" className="rounded-full w-12" />
+                                <img src="https://cdn.discordapp.com/icons/724605348010262528/951da661c07cd9efb9eb7e89b56d6c97.webp?size=2048" className="rounded-full w-12" />
                                 <p className="font-semibold text-xl text-white">Moon Plus Bot</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
@@ -31,11 +31,11 @@ export default function Footer() {
                                     </Menu.Button>
 <div className="py-1"></div>
 <a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/servers/924325576095973426.svg"}/>
+  <img src={"https://top.gg/api/widget/servers/931685972733751337.svg"}/>
 </a>
 <div className="py-1"></div>
 <a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/upvotes/924325576095973426.svg"}/>
+  <img src={"https://top.gg/api/widget/upvotes/931685972733751337.svg"}/>
 </a>
 <div className="py-1"></div>
 <a href="https://top.gg/bot/924325576095973426">
@@ -48,14 +48,14 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
                             <div>
-                                <Link href="https://bit.ly/3LYzaDe">
+                                <Link href="https://top.gg/bot/931685972733751337/vote">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                         Vote Bot
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/ZcDprCrFTn" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.gg/AhEAKhcRQG" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Support Server
                                 </a>
                             </div>
