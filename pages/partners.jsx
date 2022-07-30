@@ -20,10 +20,10 @@ export default function Partners() {
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/997585401558614168/997588300812525658/siyahsatayuvarlak.png" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Code Share</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Sata Software</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                       Sponsor : Sata Software
+                                       Sponsor : Sunucularımız Bursa DGN, İstanbul PremierDC, İstanbul Türknet, İstanbul ComnetTR, Ankara/Turkcell veri merkezi sunucularımşz ile hızın doruğuna ulaşın. Sadece ₺29.99'den başlayan fiyatlar ile sanal sunucu sahibi olmak için satasoftware.com adresini ziyaret edin.
                                     </p>
                                 </div>     
                             </div>
