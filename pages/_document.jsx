@@ -6,37 +6,37 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="/logo.jpg" />
+          <link rel="apple-touch-icon" href="https://cdn.discordapp.com/avatars/931685972733751337/d6ba1bdc2e2bc14082c1acba8df91124.webp" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about moderating your own server with Astra bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
+            content="Moon Plus Onaylı Discord Botu Hadi Sende Ekle Sunucuna Sunucunu Baştan Yarat Kullanamak İcin m!komutadı Yazarak Komut Çağırabilirsiniz!"
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@AstraBot" />
-          <meta name="twitter:creator" content="@AstraBot" />
-          <meta property="og:url" content="https://astrabot.vercel.app" />
+          <meta name="twitter:site" content="@MoonPlusBot" />
+          <meta name="twitter:creator" content="@MoonPlusBot" />
+          <meta property="og:url" content="https://moonplus.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Astra Bot" />
+          <meta property="og:title" content="Moon Plus" />
           <link
             rel="icon"
-            href="/img/logo2.png"
+            href="https://cdn.discordapp.com/avatars/931685972733751337/d6ba1bdc2e2bc14082c1acba8df91124.webp"
             type="image/x-icon"
           />
           <meta
             property="og:description"
-            content="How about moderating your own server with Astra bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
+            content="Moon Plus Onaylı Discord Botu Hadi Sende Ekle Sunucuna Sunucunu Baştan Yarat Kullanamak İcin m!komutadı Yazarak Komut Çağırabilirsiniz!"
           />
           <meta property="og:image" content="/img/logo.jpg" />
           <meta property="og:image:alt" content="Astra Bot" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Astra Bot"
+            content="Moon Plust"
           />
           <meta name="theme-color" content="#6108dd" />
-          <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
+          <link rel="icon" href="https://cdn.discordapp.com/avatars/931685972733751337/d6ba1bdc2e2bc14082c1acba8df91124.webp" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
