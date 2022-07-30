@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" src="/img/bck.png" />
+      <img width="500" src="https://cdn.discordapp.com/avatars/931685972733751337/d6ba1bdc2e2bc14082c1acba8df91124.webp" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           Moon Plus
@@ -27,7 +27,7 @@ export default function Index() {
               </a>
             </Link>
   <div className="py-10"></div>
-  <Link href={"https://bit.ly/3LYzaDe"}>
+  <Link href={"https://top.gg/bot/931685972733751337/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Vote Moon Plus</a>
   </Link>
@@ -45,9 +45,9 @@ Vote Moon Plus</a>
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
           <div className="col-span-4">
-            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Astra Bot" }} />
+            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Moon Plus Bot" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
-            <a href="https://bit.ly/3PHDjyC" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
+            <a href="https://discord.com/oauth2/authorize?client_id=931685972733751337&scope=bot+applications.commands&permissions=2147483656" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
               <i className="fab fa-discord mr-2" />Invite Moon Plus
             </a>
           </div>
