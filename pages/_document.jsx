@@ -28,8 +28,8 @@ class MyDocument extends Document {
             property="og:description"
             content="Moon Plus Onaylı Discord Botu Hadi Sende Ekle Sunucuna Sunucunu Baştan Yarat Kullanamak İcin m!komutadı Yazarak Komut Çağırabilirsiniz!"
           />
-          <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="Astra Bot" />
+          <meta property="og:image" content="https://cdn.discordapp.com/avatars/931685972733751337/d6ba1bdc2e2bc14082c1acba8df91124.webp" />
+          <meta property="og:image:alt" content="Moon Plus Bot" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
