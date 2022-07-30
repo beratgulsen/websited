@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" src="https://cdn.discordapp.com/avatars/931685972733751337/d6ba1bdc2e2bc14082c1acba8df91124.webp" />
+      <img width="500" src="https://astrabot.vercel.app/img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           Moon Plus
