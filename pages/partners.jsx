@@ -24,7 +24,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">SataSoftware</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                       Sunucularımız Bursa DGN, İstanbul PremierDC, İstanbul Türknet, İstanbul ComnetTR, Ankara/Turkcell veri merkezi sunucularımşz ile hızın doruğuna ulaşın. Sadece ₺29.99'den başlayan fiyatlar ile sanal sunucu sahibi olmak için satasoftware.com adresini ziyaret edin.
+                                       Sunucularımız Bursa DGN, İstanbul PremierDC, İstanbul Türknet, İstanbul ComnetTR, Ankara/Turkcell veri merkezi sunucularımşz ile hızın doruğuna ulaşın.
                                     </p>
                                 </div>     
                             </div>
@@ -33,14 +33,14 @@ export default function Partners() {
                     </div>
 
                     <div className="flex flex-col justify-center text-white rounded">
-                        <a href="https://discord.gg/Fy4WmSThRZ">
+                        <a href="https://discord.gg/AhEAKhcRQG">
                             <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/924312493537509407/721de16575a9048c9c6980613ebb99f0.webp" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/724605348010262528/951da661c07cd9efb9eb7e89b56d6c97.webp?size=2048" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">The Developers</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                    You can get help on software and similar issues or you can spend time chatting. How about being a cool developer?
+                                    Moon Plus Onaylı Discord Botu Destek Sunucusuna Gelip Destek Alabilir Sohbet Edebilirsiniz Bana Tıkla!
                                     </p>
                                 </div>     
                             </div>
