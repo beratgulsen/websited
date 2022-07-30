@@ -13,7 +13,7 @@ export default function Index() {
           Moon Plus
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       Moon Plus Onaylı Discord Botu Hadi Sende Ekle Sunucuna Sunucunu Baştan Yarat Kullanamak İcin +komutadı Yazarak Komut Çağırabilirsiniz!. 
+       Moon Plus Onaylı Discord Botu Hadi Sende Ekle Sunucuna Sunucunu Baştan Yarat Kullanamak İcin m!komutadı Yazarak Komut Çağırabilirsiniz!. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
