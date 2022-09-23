@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="https://cdn.discordapp.com/avatars/931685972733751337/d6ba1bdc2e2bc14082c1acba8df91124.webp" />
+          <link rel="apple-touch-icon" href="https://cdn.discordapp.com/avatars/931685972733751337/4d7afb365c69106d7b674770012f432b.webp" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
@@ -21,14 +21,14 @@ class MyDocument extends Document {
           <meta property="og:title" content="Moon Plus" />
           <link
             rel="icon"
-            href="https://cdn.discordapp.com/avatars/931685972733751337/d6ba1bdc2e2bc14082c1acba8df91124.png"
+            href="https://cdn.discordapp.com/avatars/931685972733751337/4d7afb365c69106d7b674770012f432b.webp"
             type="image/x-icon"
           />
           <meta
             property="og:description"
-            content="Moon Plus Onaylı Discord Botu Hadi Sende Ekle Sunucuna Sunucunu Baştan Yarat Kullanamak İcin m!komutadı Yazarak Komut Çağırabilirsiniz!"
+            content="Moon Plus Bot: Kullanışlı Kayıt Ve Moderasyon Botu!"
           />
-          <meta property="og:image" content="https://cdn.discordapp.com/avatars/931685972733751337/d6ba1bdc2e2bc14082c1acba8df91124.png" />
+          <meta property="og:image" content="https://cdn.discordapp.com/avatars/931685972733751337/4d7afb365c69106d7b674770012f432b.webp" />
           <meta property="og:image:alt" content="Moon Plus Bot" />
           <meta property="og:locale" content="en_GB" />
           <meta
