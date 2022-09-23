@@ -117,7 +117,7 @@ export default function Footer() {
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Moon Plus Bot ❤️"}
+                            {"Moon Plus Bot. ❤️"}
                         </p>
                     </div>
                 </div>
