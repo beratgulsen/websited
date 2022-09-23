@@ -17,14 +17,14 @@ export default function Partners() {
             <div className="lg:max-w-screen-lg mt-10 mx-auto grid grid-cols-1 md:grid-cols-2 gap-4">
 
             <div className="flex flex-col justify-center text-white rounded">
-            <a href="https://discord.gg/GGHkAZbnqP">
+            <a href="">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/997585401558614168/997588300812525658/siyahsatayuvarlak.png" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">SataSoftware</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Sponsor Aranıyor</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                       Sunucularımız Bursa DGN, İstanbul PremierDC, İstanbul Türknet, İstanbul ComnetTR, Ankara/Turkcell veri merkezi sunucularımşz ile hızın doruğuna ulaşın.
+                                      
                                     </p>
                                 </div>     
                             </div>
@@ -33,11 +33,11 @@ export default function Partners() {
                     </div>
 
                     <div className="flex flex-col justify-center text-white rounded">
-                        <a href="https://discord.gg/AhEAKhcRQG">
+                        <a href="https://discord.gg/RNE8tUVCFM">
                             <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/724605348010262528/951da661c07cd9efb9eb7e89b56d6c97.webp?size=2048" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">The Developers</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Destek Sunucusu</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                     Moon Plus Onaylı Discord Botu Destek Sunucusuna Gelip Destek Alabilir Sohbet Edebilirsiniz Bana Tıkla!
