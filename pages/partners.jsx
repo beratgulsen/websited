@@ -40,7 +40,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Destek Sunucusu</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                    Moon Plus Onaylı Discord Botu Destek Sunucusuna Gelip Destek Alabilir Sohbet Edebilirsiniz Bana Tıkla!
+                                    Moon Plus Onaylı Discord Botu Destek Sunucusuna Gelip Destek Alabilir Sohbet Edebilirsiniz Bana Tıkla.
                                     </p>
                                 </div>     
                             </div>
