@@ -13,7 +13,7 @@ export default function Index() {
           Moon Plus
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       Moon Plus Bot: Kullanışlı Kayıt Ve Moderasyon Botu. 
+       Moon Plus Bot: Kullanışlı Kayıt Ve Moderasyon Botu.. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
