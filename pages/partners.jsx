@@ -19,7 +19,7 @@ export default function Partners() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/997585401558614168/997588300812525658/siyahsatayuvarlak.png" />
+                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/608711476219478045/1015435486044622858/a_6ecb34e2235ad645bcf0b1a0e534a598.gif" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Sponsor Aranıyor</h1>        
                                 <div className="flex items-center mt-1">
@@ -35,7 +35,7 @@ export default function Partners() {
                     <div className="flex flex-col justify-center text-white rounded">
                         <a href="https://discord.gg/RNE8tUVCFM">
                             <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/724605348010262528/951da661c07cd9efb9eb7e89b56d6c97.webp?size=2048" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/avatars/931685972733751337/4d7afb365c69106d7b674770012f432b.webp" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Destek Sunucusu</h1>        
                                 <div className="flex items-center mt-1">
