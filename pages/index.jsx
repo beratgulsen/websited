@@ -90,7 +90,7 @@ Vote Moon Plus</a>
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Moon Plus ile en iyi partileri, en iyi ve en güncel partileri vermeye hazır mısınız??</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/1009254675511529472/1022960552085049474/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
