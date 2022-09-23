@@ -7,13 +7,13 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" src="https://astrabot.vercel.app/img/bck.png" />
+      <img width="500" src="https://cdn.discordapp.com/avatars/931685972733751337/4d7afb365c69106d7b674770012f432b.webp" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           Moon Plus
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       Moon Plus Onaylı Discord Botu Hadi Sende Ekle Sunucuna Sunucunu Baştan Yarat Kullanamak İcin m!komutadı Yazarak Komut Çağırabilirsiniz!. 
+       Moon Plus Bot: Kullanışlı Kayıt Ve Moderasyon Botu. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
