@@ -11,7 +11,7 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="Moon Plus Onaylı Discord Botu Hadi Sende Ekle Sunucuna Sunucunu Baştan Yarat Kullanamak İcin m!komutadı Yazarak Komut Çağırabilirsiniz!"
+            content="Moon Plus Bot: Kullanışlı Kayıt Ve Moderasyon Botu!"
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@MoonPlusBot" />
@@ -36,7 +36,7 @@ class MyDocument extends Document {
             content="Moon Plus"
           />
           <meta name="theme-color" content="#6108dd" />
-          <link rel="icon" href="https://cdn.discordapp.com/avatars/931685972733751337/d6ba1bdc2e2bc14082c1acba8df91124.png" type="image/x-icon" />
+          <link rel="icon" href="https://cdn.discordapp.com/attachments/1009254675511529472/1022932241837469757/image.png" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
