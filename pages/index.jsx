@@ -90,8 +90,6 @@ Vote Moon Plus</a>
                   <p className="text-3xl text-white font-semibold">Moon Plus</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Moon Plus ile Sunucunu Güzelleştirmeye Hazır mısın? - Ne Bekliyorsun Hemen Ekle Geç Kalma...</p>
                 </div>
-		  <a href="https://discord.com/oauth2/authorize?client_id=931685972733751337&scope=bot+applications.commands&permissions=2147483656" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
-              <i className="fab fa-discord mr-2" />Invite Moon Plus
                 <img src="https://cdn.discordapp.com/attachments/1023329896946217101/1031168019025633351/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
