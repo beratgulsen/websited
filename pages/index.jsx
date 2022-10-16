@@ -62,7 +62,7 @@ Vote Moon Plus</a>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Universal</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Commands</p>
                   <p className="text-gray-500 line-clamp-4">Tag Rol + Kayıt Sistemi (Cinisyet - Normal) Sistemlerden Oluşan Eğlence Sistemler Menüsü Emoji Rol + Taglı Alım Secenekleri Sunmaktadır)</p>
                 </div>
               </div>
@@ -87,8 +87,8 @@ Vote Moon Plus</a>
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/1023329896946217101/1031168019025633351/unknown.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Moon Plus ile en iyi partileri, en iyi ve en güncel partileri vermeye hazır mısınız??</p>
+                  <p className="text-3xl text-white font-semibold">Moon Plus</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Moon Plus ile Sunucunu Güzelleştirmeye Hazır mısın?</p>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/1023329896946217101/1031168019025633351/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
