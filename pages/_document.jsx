@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="https://images-ext-1.discordapp.net/external/Gh-oMxky2XBHHloa8Y21ivf-UsXHriYP6alK7Hdc5RM/https/cdn.discordapp.com/avatars/931685972733751337/73bbcfb7a61f024a7e70d0cf423d881d.webp" />
+          <link rel="apple-touch-icon" href="https://cdn.discordapp.com/attachments/1023329896946217101/1042888477534064701/xlm-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment_95842.png" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
@@ -21,14 +21,14 @@ class MyDocument extends Document {
           <meta property="og:title" content="Moon Plus" />
           <link
             rel="icon"
-            href="https://images-ext-1.discordapp.net/external/Gh-oMxky2XBHHloa8Y21ivf-UsXHriYP6alK7Hdc5RM/https/cdn.discordapp.com/avatars/931685972733751337/73bbcfb7a61f024a7e70d0cf423d881d.webp"
+            href="https://cdn.discordapp.com/attachments/1023329896946217101/1042888477534064701/xlm-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment_95842.png"
             type="image/x-icon"
           />
           <meta
             property="og:description"
             content="Moon Plus Bot: Kullanışlı Kayıt Ve Moderasyon Botu!"
           />
-          <meta property="og:image" content="https://images-ext-1.discordapp.net/external/Gh-oMxky2XBHHloa8Y21ivf-UsXHriYP6alK7Hdc5RM/https/cdn.discordapp.com/avatars/931685972733751337/73bbcfb7a61f024a7e70d0cf423d881d.webp" />
+          <meta property="og:image" content="https://cdn.discordapp.com/attachments/1023329896946217101/1042888477534064701/xlm-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment_95842.png" />
           <meta property="og:image:alt" content="Moon Plus Bot" />
           <meta property="og:locale" content="en_GB" />
           <meta
