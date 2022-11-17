@@ -35,7 +35,7 @@ export default function Partners() {
                     <div className="flex flex-col justify-center text-white rounded">
                         <a href="https://discord.gg/nYQpujmDmf">
                             <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/Gh-oMxky2XBHHloa8Y21ivf-UsXHriYP6alK7Hdc5RM/https/cdn.discordapp.com/avatars/931685972733751337/73bbcfb7a61f024a7e70d0cf423d881d.webp" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1023329896946217101/1042888477534064701/xlm-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment_95842.png" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Destek Sunucusu</h1>        
                                 <div className="flex items-center mt-1">
