@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="https://cdn.discordapp.com/attachments/1023329896946217101/1042888477534064701/xlm-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment_95842.png" />
+          <link rel="apple-touch-icon" href="https://cdn.discordapp.com/attachments/1023329896946217101/1043255666153902190/m-icon-3.jpg" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
@@ -21,14 +21,14 @@ class MyDocument extends Document {
           <meta property="og:title" content="Moon Plus" />
           <link
             rel="icon"
-            href="https://cdn.discordapp.com/attachments/1023329896946217101/1042888477534064701/xlm-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment_95842.png"
+            href="https://cdn.discordapp.com/attachments/1023329896946217101/1043255666153902190/m-icon-3.jpg"
             type="image/x-icon"
           />
           <meta
             property="og:description"
             content="Moon Plus Bot: Kullanışlı Kayıt Ve Moderasyon Botu!"
           />
-          <meta property="og:image" content="https://cdn.discordapp.com/attachments/1023329896946217101/1042888477534064701/xlm-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment_95842.png" />
+          <meta property="og:image" content="https://cdn.discordapp.com/attachments/1023329896946217101/1043255666153902190/m-icon-3.jpg" />
           <meta property="og:image:alt" content="Moon Plus Bot" />
           <meta property="og:locale" content="en_GB" />
           <meta
