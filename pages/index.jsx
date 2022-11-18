@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="150" src="https://cdn.discordapp.com/attachments/1023329896946217101/1042888477534064701/xlm-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment_95842.png" />
+      <img width="150" src="https://cdn.discordapp.com/attachments/1023329896946217101/1043255666153902190/m-icon-3.jpg" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           Moon Plus
